@@ -1,0 +1,11 @@
+{
+	"files.exclude": {
+		"C:/Dev/Unreal/SimpleFPSTemplate/.git": true,
+		"C:/Dev/Unreal/SimpleFPSTemplate/.vs": true,
+		"C:/Dev/Unreal/SimpleFPSTemplate/.vscode": true,
+		"C:/Dev/Unreal/SimpleFPSTemplate/Content": true,
+		"C:/Dev/Unreal/SimpleFPSTemplate/Intermediate": true,
+		"C:/Dev/Unreal/SimpleFPSTemplate/Saved": true
+	},
+	"C_Cpp.errorSquiggles": "Disabled"
+}
